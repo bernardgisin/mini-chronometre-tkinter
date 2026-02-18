@@ -1,4 +1,6 @@
-# Mini Tkinter Stopwatch ⏱️
+# Mini Tkinter Stopwatch ⏱️ ![Capture d'écran du chronomètre](chrono0.png)
+
+![Capture d'écran du chronomètre](chrono.png)
 
 🇫🇷 Voir la documentation en français plus bas
 
@@ -29,7 +31,7 @@ sudo apt install python3-tk
 ---
 ## 🇫🇷 Documentation en français
 
-# Mini Chronomètre Tkinter ⏱️
+# Mini Chronomètre Tkinter ⏱️ ![Capture d'écran du chronomètre](chrono0.png)
 
 Un petit utilitaire de chronomètre minimaliste, léger et flottant, écrit en Python. Il a été conçu spécialement pour la capture d'écran, le montage vidéo et la création de tutoriels (particulièrement adapté aux environnements Linux).
 
